@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:responsive_framework/responsive_framework.dart';
 import 'package:animate_do/animate_do.dart';
 import '../widgets/project_card.dart';
-import '../models/project.dart';
 import '../data.dart';
 
 class ProjectsScreen extends StatelessWidget {
