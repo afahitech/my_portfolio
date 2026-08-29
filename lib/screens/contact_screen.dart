@@ -176,15 +176,15 @@ class _ContactScreenState extends State<ContactScreen> {
                             _buildContactCard(
                               FontAwesomeIcons.github,
                               'GitHub',
-                              'github.com/yourusername',
-                              'https://github.com/yourusername',
+                              'github.com/afahitech',
+                              'https://github.com/afahitech',
                             ),
                             const SizedBox(height: 16),
                             _buildContactCard(
                               FontAwesomeIcons.linkedin,
                               'LinkedIn',
-                              'linkedin.com/in/yourusername',
-                              'https://linkedin.com/in/yourusername',
+                              'linkedin.com/in/afa-hitech/',
+                              'https://www.linkedin.com/in/afa-hitech/',
                             ),
                             const SizedBox(height: 16),
                             _buildContactCard(
@@ -197,8 +197,8 @@ class _ContactScreenState extends State<ContactScreen> {
                             _buildContactCard(
                               FontAwesomeIcons.youtube,
                               'YouTube',
-                              'youtube.com/@yourchannel',
-                              'https://youtube.com/@yourchannel',
+                              'youtube.com/@muhammadataurrahman2885',
+                              'https://www.youtube.com/@muhammadataurrahman2885',
                             ),
                             const SizedBox(height: 16),
                             _buildContactCard(
@@ -224,10 +224,10 @@ class _ContactScreenState extends State<ContactScreen> {
                   runSpacing: 12,
                   alignment: WrapAlignment.center,
                   children: [
-                    _buildSocialIcon(FontAwesomeIcons.github, 'https://github.com/yourusername'),
-                    _buildSocialIcon(FontAwesomeIcons.linkedin, 'https://linkedin.com/in/yourusername'),
+                    _buildSocialIcon(FontAwesomeIcons.github, 'https://github.com/afahitech'),
+                    _buildSocialIcon(FontAwesomeIcons.linkedin, 'https://www.linkedin.com/in/afa-hitech/'),
                     _buildSocialIcon(FontAwesomeIcons.twitter, 'https://twitter.com/yourusername'),
-                    _buildSocialIcon(FontAwesomeIcons.youtube, 'https://youtube.com/@yourchannel'),
+                    _buildSocialIcon(FontAwesomeIcons.youtube, 'https://www.youtube.com/@muhammadataurrahman2885'),
                     _buildSocialIcon(FontAwesomeIcons.envelope, 'mailto:your.email@example.com'),
                   ],
                 ),

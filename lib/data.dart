@@ -7,7 +7,7 @@ class PortfolioData {
       title: 'Flutter Finance App',
       description: 'A banking app with real-time transaction tracking',
       imageUrl: 'https://picsum.photos/seed/finance/400/300',
-      githubUrl: 'https://github.com/yourusername/finance_app',
+      githubUrl: 'https://github.com/afahitech/finance_app',
       liveUrl: 'https://finance-app-demo.vercel.app',
       technologies: ['Flutter', 'BLoC', 'Hive', 'Charts'],
       date: DateTime(2024, 8, 28),
