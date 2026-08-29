@@ -170,13 +170,13 @@ class HomeContent extends StatelessWidget {
                 _buildSocialButton(
                   'GitHub',
                   Icons.code,
-                      () => _launchUrl('https://github.com/yourusername'),
+                      () => _launchUrl('https://github.com/afahitech'),
                 ),
                 const SizedBox(width: 12),
                 _buildSocialButton(
                   'LinkedIn',
                   Icons.business_center,
-                      () => _launchUrl('https://linkedin.com/in/yourusername'),
+                      () => _launchUrl('https://linkedin.com/in/afa-hitech/'),
                 ),
                 const SizedBox(width: 12),
                 _buildSocialButton(
@@ -188,7 +188,7 @@ class HomeContent extends StatelessWidget {
                 _buildSocialButton(
                   'YouTube',
                   Icons.play_circle_filled,
-                      () => _launchUrl('https://youtube.com/@yourchannel'),
+                      () => _launchUrl('https://youtube.com/@muhammadataurrahman2885'),
                 ),
               ],
             ),
