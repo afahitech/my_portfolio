@@ -176,7 +176,7 @@ class HomeContent extends StatelessWidget {
                 _buildSocialButton(
                   'LinkedIn',
                   Icons.business_center,
-                      () => _launchUrl('https://www.linkedin.com/in/afa-hitech/'),
+                      () => _launchUrl('https://www.linkedin.com/in/afa-hitech'),
                 ),
                 const SizedBox(width: 12),
                 _buildSocialButton(

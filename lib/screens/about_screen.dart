@@ -67,9 +67,9 @@ class AboutScreen extends StatelessWidget {
                           ),
                         ),
                         const SizedBox(height: 20),
-                        _buildInfoRow('📍 Location', 'Your City, Country'),
-                        _buildInfoRow('💼 Experience', '5+ Years'),
-                        _buildInfoRow('🎓 Education', 'B.S. in Computer Science'),
+                        _buildInfoRow('📍 Location', 'Dhaka, Bangladesh'),
+                        _buildInfoRow('💼 Experience', '1+ Years'),
+                        _buildInfoRow('🎓 Education', 'MBA Marketing '),
                         _buildInfoRow('💻 Freelance', 'Available for Hire'),
                         const SizedBox(height: 30),
                         Wrap(
