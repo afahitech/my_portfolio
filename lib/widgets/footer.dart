@@ -69,9 +69,9 @@ class Footer extends StatelessWidget {
           const SizedBox(width: 20),
           _buildSocialLink('GitHub', 'https://github.com/afahitech'),
           const SizedBox(width: 12),
-          _buildSocialLink('LinkedIn', 'https://www.linkedin.com/in/afa-hitech/'),
+          _buildSocialLink('LinkedIn', 'https://linkedin.com/in/afahitech'),
           const SizedBox(width: 12),
-          _buildSocialLink('Twitter', 'https://twitter.com/yourusername'),
+          // _buildSocialLink('Twitter', 'https://twitter.com/yourusername'),
         ],
       ),
     );
